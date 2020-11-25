@@ -1,4 +1,4 @@
-# Link Lock
+# Link Lock (created by Jacob Strieb)
 
 [Password-protect URLs using AES in the
 browser.](https://jstrieb.github.io/link-lock)
